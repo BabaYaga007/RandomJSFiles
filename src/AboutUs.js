@@ -13,6 +13,8 @@ export default class AboutUs extends Component {
       <div className="myNavDivData">
         <p>My name is Gaurang Bhardwaj</p>
         <p>I am a website developer</p>
+        <p>Currently employed by Accenture</p>
+        <p>Alumni of Manipal University Jaipur</p>
         <p>
           <Link to={`/AboutUs/ThumbsUp/${product.pid}`}>
             <FaThumbsUp />
