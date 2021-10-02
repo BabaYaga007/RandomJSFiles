@@ -7,6 +7,10 @@ export default class Home extends Component{
             <div className="myNavDivData">
                 <p>Welcome to my Website!</p>
                 <p>Nice to meet you.</p>
+                <p>
+                    <div>This was created by Gaurang Bhardwaj</div>
+                </p>
+                <div>Welcome to the world of React</div>
             </div>
         )
     }
