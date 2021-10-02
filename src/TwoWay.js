@@ -10,6 +10,10 @@ function TwoWay(){
             <p>Two Way Functional Data Binding</p>
             <input type="text" value={pTitle} onChange={(e)=>handleChange(e)} />
             <p class="twoWayP">{pTitle}</p>
+            <p>
+                <div>Created by Gaurang, alumni of MUJ</div>
+                <div>Working in Accenture</div>
+            </p>
         </div>
     )
 }
