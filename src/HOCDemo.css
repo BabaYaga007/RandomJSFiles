@@ -1,0 +1,11 @@
+.hocDiv {
+  border: 4px dotted grey;
+  border-radius: 6px;
+  position: absolute;
+  left: 10%;
+  top: 7%;
+}
+.clickP{
+  background-color: grey;
+  font-size: medium;
+}

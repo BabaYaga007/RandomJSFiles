@@ -1,0 +1,11 @@
+.twoWayDiv {
+  border: 3px solid blueviolet;
+  border-radius: 6px;
+  width: 70;
+  position: absolute;
+  right: 8%;
+}
+.twoWayP {
+  color: blueviolet;
+  font-size: large;
+}

@@ -1,0 +1,24 @@
+.myStudentDiv{
+    font-family: cursive;
+}
+.myDataDiv{
+    width: 60;
+    border: 3px solid red;
+    text-align: left;
+    border-radius: 6px;
+}
+.myButton{
+    border: none;
+}
+.mySpan{
+    color: black;
+    background-color: yellow;
+    border-radius: 6px;
+}
+.mySpan:hover{
+    background-color: red;
+}
+.myHeading{
+    background-color: yellowgreen;
+    color:black;
+}

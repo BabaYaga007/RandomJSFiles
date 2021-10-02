@@ -1,0 +1,12 @@
+.oneWayDiv {
+  border: 3px solid yellow;
+  width: 90;
+  border-radius: 6px;
+  position: absolute;
+  right: 10%;
+  top: 20%;
+}
+.oneWayP {
+  color: greenyellow;
+  font-size: large;
+}
